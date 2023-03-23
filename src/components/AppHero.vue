@@ -7,7 +7,7 @@
 </template>
 
 
-<style>
+<style lang="css">
 
     img{
         width: 800px;

@@ -12,5 +12,11 @@
 </template>
 
 
-<style>
+<style lang="css" scoped>
+
+    
+    h1{
+        color: white;
+        padding: 1rem;
+    }
 </style>

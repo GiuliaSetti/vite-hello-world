@@ -43,10 +43,19 @@ Create e utilizzate un componente AppTitle, il quale contiene un titolo che reci
   </div>
 </template>
 
-<style>
+<style lang="css">
 
   .container{
     text-align: center;
+
+    padding: 2rem;
+
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: brown;
+    border-radius: 30px;
+
+    box-shadow: 1px 1px 5px black;
   }
 
 </style>
